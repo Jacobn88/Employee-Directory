@@ -20,10 +20,10 @@
   Select Name, Occupation or Location from the drop down menu to sort your list and type your employee's name in the name filter box to filter by name.
   ## License
   Uses Eclipse Public License 1.0.
-  ## Deployed
-  https://jacobn88.github.io/Employee-Directory/
   ## Screenshot
   ![](images/employee-directory.png)
+  ## Deployed
+  https://jacobn88.github.io/Employee-Directory/
   ## Questions
   My Github https://github.com/Jacobn88.
   Reach out to me at NelsonJacob1988@gmail.com with any questions!
